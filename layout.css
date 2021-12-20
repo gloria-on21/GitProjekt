@@ -6,6 +6,14 @@ figcaption{
 	display: block; 
 	margin: auto; 
 }
+#logo{
+	size: 20;
+	display: block; 
+	margin: auto; 
+	width: 20%; 
+	border: 20px solid #B289B2;
+	box-sizing: border-box;
+}
 img {
 	display: block; 
 	margin: auto; 
