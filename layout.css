@@ -3,10 +3,9 @@ body {
 }
 
 img {
-	display: flex; 
-    justify-content: center; 
-    align-items: center;
-	width: 60%;
+	display: block; 
+	margin: auto; 
+	width: 50%; 
 	border: 20px solid #B289B2;
 	box-sizing: border-box;
 }
